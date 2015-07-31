@@ -55,11 +55,11 @@ public Plugin:myinfo = {
 public OnPluginStart() {
 	cVersion = CreateConVar("gift_mode_version", PLUGIN_VERSION, "Gift Mode Version", FCVAR_PLUGIN|FCVAR_SPONLY|FCVAR_REPLICATED|FCVAR_NOTIFY);
 	cEnabled = CreateConVar("gift_mode_enabled", "1", "Should this plugin be enabled?");
-	cDuration = CreateConVar("gift_duration", "20.0", "How many seconds should godmode last?");
+	cDuration = CreateConVar("gift_duration", "20.0", "How many seconds should abilities last?");
 	cGiftChance = CreateConVar("gift_mode_chance", "0.50", "Chance for a good effect.");
 	cDropChance = CreateConVar("gift_mode_dropchance", "0.65", "Chance for a gift to drop.");
 	cGiftDuration = CreateConVar("gift_mode_duration", "10.0", "How long before gifts disappears?");
-	cGiftCooldown = CreateConVar("gift_mode_cooldown", "60.0", "How long before players can see and pickup gifts.");
+	cGiftCooldown = CreateConVar("gift_mode_cooldown", "30.0", "How long before players can see and pickup gifts.");
 	cGiftSuicide = CreateConVar("gift_mode_suicide", "0", "Can people who suicide drop gifts?");
 	cGiftTeam = CreateConVar("gift_mode_team", "1", "Which team can pick up gifts? 0-None|1-All|2-Red|3-Blue");
 	cDisabled = CreateConVar("gift_mode_disabled", "", "Which abilities are disabled?");
