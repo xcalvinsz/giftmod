@@ -1,0 +1,168 @@
+"Phrases"
+{
+	"Godmode"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received godmode for {green}{1} {normal}seconds."
+	}
+	"Toxic"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received toxic for {green}{1} {normal}seconds."
+	}
+	"Gravity"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received low gravity for {green}{1} {normal}seconds."
+	}
+	"Swimming"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received jarate swimming for {green}{1} {normal}seconds."
+	}
+	"Bumper"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received a bumper car for {green}{1} {normal}seconds."
+	}
+	"Scary"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received scary bullets for {green}{1} {normal}seconds."
+	}
+	"Knockers"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received knockers for {green}{1} {normal}seconds."
+	}
+	"Incendiary"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received incendiary ammo for {green}{1} {normal}seconds."
+	}
+	"Speed"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received a speed boost for {green}{1} {normal}seconds."
+	}
+	"Jump"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received a jump boost for {green}{1} {normal}seconds."
+	}
+	"Freeze"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You are frozen for {green}{1} {normal}seconds."
+	}
+	"Taunt"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You must taunt for {green}{1} {normal}seconds."
+	}
+	"Blind"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You are blinded for {green}{1} {normal}seconds."
+	}
+	"OneHP"
+	{
+		"en"		"{green}[Gift] {normal}You just lost all your health."
+	}
+	"Explode"
+	{
+		"en"		"{green}[Gift] {normal}You just exploded."
+	}
+	"Nostalgia"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You are in nostalgia {green}{1} {normal}seconds."
+	}
+	"Drug"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You are drugged for {green}{1} {normal}seconds."
+	}
+	"BrainDead"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You are brain dead {green}{1} {normal}seconds."
+	}
+	"Melee"
+	{
+		"en"		"{green}[Gift] {normal}You are stripped to your melee weapon."
+	}
+	"Snail"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}[Gift] {normal}You have received snail for {green}{1} {normal}seconds."
+	}
+	"Godmode_End"
+	{
+		"en"		"{green}[Gift] {normal}You no longer have godmode."
+	}
+	"Toxic_End"
+	{
+		"en"		"{green}[Gift] {normal}Toxic has ended."
+	}
+	"Gravity_End"
+	{
+		"en"		"{green}[Gift] {normal}Low Gravity has ended."
+	}
+	"Swimming_End"
+	{
+		"en"		"{green}[Gift] {normal}Jarate Swimming has ended."
+	}
+	"Bumper_End"
+	{
+		"en"		"{green}[Gift] {normal}You no longer have a bumper car."
+	}
+	"Scary_End"
+	{
+		"en"		"{green}[Gift] {normal}You no longer have scary bullets."
+	}
+	"Knockers_End"
+	{
+		"en"		"{green}[Gift] {normal}Knockers has ended."
+	}
+	"Incendiary_End"
+	{
+		"en"		"{green}[Gift] {normal}You no longer have incendiary ammo."
+	}
+	"Speed_End"
+	{
+		"en"		"{green}[Gift] {normal}Speed boost has worn out."
+	}
+	"Jump_End"
+	{
+		"en"		"{green}[Gift] {normal}Jump boost has worn out."
+	}
+	"Freeze_End"
+	{
+		"en"		"{green}[Gift] {normal}You are no longer frozen."
+	}
+	"Taunt_End"
+	{
+		"en"		"{green}[Gift] {normal}You are no longer forced to taunt."
+	}
+	"Blind_End"
+	{
+		"en"		"{green}[Gift] {normal}You are no longer blinded."
+	}
+	"Nostalgia_End"
+	{
+		"en"		"{green}[Gift] {normal}You are no longer nostalgic."
+	}
+	"Drug_End"
+	{
+		"en"		"{green}[Gift] {normal}You are no longer drugged."
+	}
+	"BrainDead_End"
+	{
+		"en"		"{green}[Gift] {normal}You are no longer brain dead."
+	}
+	"Snail_End"
+	{
+		"en"		"{green}[Gift] {normal}Snail has worn out."
+	}
+}
